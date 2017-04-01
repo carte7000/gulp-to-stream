@@ -1,6 +1,6 @@
 {
     "name": "gulp-to-stream",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "gulp-to-stream is a gulp plugin that takes an vinyl file or an object and create a stream from it",
     "main": "index.js",
     "scripts": {
