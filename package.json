@@ -1,0 +1,25 @@
+{
+    "name": "gulp-to-stream",
+    "version": "1.0.0",
+    "description": "gulp-to-stream is a gulp plugin that takes an vinyl file or an object and create a stream from it",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "gulp",
+        "stream",
+        "to",
+        "stream",
+        "vinyl",
+        "vinyl",
+        "file"
+    ],
+    "author": "Simon B.Robert",
+    "license": "MIT",
+    "dependencies": {
+        "through2": "^2.0.3",
+        "vinyl": "^2.0.1",
+        "vinyl-file": "^3.0.0"
+    }
+}
